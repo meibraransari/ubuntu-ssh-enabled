@@ -43,5 +43,10 @@ ssh -i ~/.ssh/ansible_id_rsa_key -p $ssh_port $ssh_user@$hostname
 ssh -p $ssh_port $ssh_user@$hostname
 ```
 
-## 💼 Connect with me 😊
-https://linktr.ee/ibraransari
+### 💼 Connect with me 👇👇 😊
+
+- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- ✍ [**Blog**](https://ibraransari.blogspot.com/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
+- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
+- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
