@@ -18,8 +18,8 @@ docker pull ibraransaridocker/ubuntu-ssh-enabled:latest
 ### Change 👇 variables(containername, username, password & port) according to your need.
 ```
 container_name=server_1
-ssh_user=iansari
-ssh_pass=Admin@123
+ssh_user=ibrar_ansari
+ssh_pass=your_secure_password
 ssh_port=2023
 container_image=ibraransaridocker/ubuntu-ssh-enabled:latest
 key_path=~/.ssh/ansible_id_rsa_key.pub
