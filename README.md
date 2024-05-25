@@ -24,11 +24,11 @@ ssh_port=2023
 container_image=ibraransaridocker/ubuntu-ssh-enabled:latest
 key_path=~/.ssh/ansible_id_rsa_key.pub
 ```
-## Step 5: Run docker container.
+## Step 4: Run docker container.
 ```
 docker run -itd --name=$container_name -p $ssh_port:22 -e SSH_USERNAME=$ssh_user -e PASSWORD=$ssh_pass -e AUTHORIZED_KEYS="$(cat $key_path)" $container_image
 ```
-## Step 6: Test SSH connection 
+## Step 5: Test SSH connection 
 ### Get Node IP:
 ```
 hostname=$(hostname -I | awk '{print $1}')
