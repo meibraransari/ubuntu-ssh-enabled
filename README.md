@@ -7,6 +7,11 @@
   📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
 </h1>
 
+<p align="center">  
+    <a href="https://hub.docker.com/r/ibraransaridocker/ubuntu-ssh-enabled">
+        <img alt="Docker Pulls Kubernetes Goat" src="https://img.shields.io/docker/pulls/ibraransaridocker/ubuntu-ssh-enabled" />
+    </a>    
+</p>
 
 # 💻 Unlock the power of SSH with this Ubuntu image, perfect for testing and development! 🛠️
 
