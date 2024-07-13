@@ -4,13 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Ubuntu SSH Enabled
+  # 📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
 </h1>
-
-<p align="center">
-    # 📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
-</p>
-
 
 
 # 💻 Unlock the power of SSH with this Ubuntu image, perfect for testing and development! 🛠️
