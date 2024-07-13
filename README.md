@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  # 📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
+  📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
 </h1>
 
 
