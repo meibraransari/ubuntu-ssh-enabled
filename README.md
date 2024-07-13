@@ -7,7 +7,12 @@
   Ubuntu SSH Enabled
 </h1>
 
-# 📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
+<p align="center">
+    # 📢📢📢 Attention all Docker 🐳 Beginners & Professionals! 🎯
+</p>
+
+
+
 # 💻 Unlock the power of SSH with this Ubuntu image, perfect for testing and development! 🛠️
 
 ## 🚨 Please note: This image is designed for educational and testing purposes 📚 🧪 ONLY! It is NOT SUITABLE for production environments! 🚫
