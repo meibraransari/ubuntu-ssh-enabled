@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hub.docker.com/r/ibraransaridocker/ubuntu-ssh-enabled">
-    <img alt="Ubuntu SSH Enabled" src="ubuntu.png" width="150" />
+    <img alt="Ubuntu SSH Enabled" src="ubuntu.png" width="250" />
   </a>
 </p>
 <h1 align="center">
