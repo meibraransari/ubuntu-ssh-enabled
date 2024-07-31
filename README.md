@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T14:01:27+05:30
-Updated: 2024-07-27T14:01:44+05:30
+Updated: 2024-07-31T16:28:10+05:30
 Maintainer: Ibrar Ansari
 ---
 <p align="center">
@@ -42,11 +42,10 @@ ssh_pass=your_secure_password
 ssh_port=2023
 container_image=ibraransaridocker/ubuntu-ssh-enabled:latest
 key_path=~/.ssh/ansible_id_rsa_key.pub
-sftp_path=/iansari
 ```
 ## Step 4: Run docker container.
 ```
-docker run -itd --name=$container_name -p $ssh_port:22 -e SSH_USERNAME=$ssh_user -e PASSWORD=$ssh_pass -e AUTHORIZED_KEYS="$(cat $key_path)" -v $sftp_path:/home/$ssh_user $container_image
+docker run -itd --name=$container_name -p $ssh_port:22 -e SSH_USERNAME=$ssh_user -e PASSWORD=$ssh_pass -e AUTHORIZED_KEYS="$(cat $key_path)" $container_image
 ```
 ## Step 5: Test SSH connection 
 ### Get Node IP:
